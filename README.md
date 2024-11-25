@@ -14,3 +14,9 @@ The ALL about dataset folder contains all the files related to the dataset creat
 6-dataset after tokenization.xlsx: The dataset after text tokenization, prepared for machine learning models.
 
 * Hate Speech Detection (First Layer):
+This layer detects whether a piece of text contains hate speech.
+We utilized machine learning (ML) and deep learning (DL) models to perform this task. Various techniques were employed for feature extraction and word embeddings.
+
+* Hate Speech Classification (Second Layer):
+Once hate speech has been detected in the first layer, this second layer classifies it into specific categories based on its type (Religious, Political or Social) Hate speech
+
