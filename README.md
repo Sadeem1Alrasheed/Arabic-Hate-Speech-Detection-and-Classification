@@ -20,3 +20,14 @@ We utilized machine learning (ML) and deep learning (DL) models to perform this 
 * Hate Speech Classification (Second Layer):
 Once hate speech has been detected in the first layer, this second layer classifies it into specific categories based on its type (Religious, Political or Social) Hate speech
 
+* preprocessed_code
+This file contains code to fetch tweets from x API and preprocess them. The preprocessing steps include cleaning text, removing noise, and preparing it for model training.
+
+# Dataset
+The dataset used in this project was extracted using the X API, which collects Arabic text data from various dialects. The dataset includes labeled examples of both hate speech and non-hate speech. It has undergone thorough cleaning and preprocessing to ensure its quality and suitability for training machine learning and deep learning models.
+
+# How It Works
+
+*First Layer: Detects whether a given text contains hate speech or not.
+*Second Layer: If hate speech is detected, the system classifies it into specific types 
+
