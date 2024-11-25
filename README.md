@@ -29,5 +29,6 @@ The dataset used in this project was extracted using the X API, which collects A
 # How It Works
 
 *First Layer: Detects whether a given text contains hate speech or not.
+
 *Second Layer: If hate speech is detected, the system classifies it into specific types 
 
