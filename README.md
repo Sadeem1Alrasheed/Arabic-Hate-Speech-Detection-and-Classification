@@ -32,3 +32,8 @@ The dataset used in this project was extracted using the X API, which collects A
 
 *Second Layer: If hate speech is detected, the system classifies it into specific types 
 
+# Usage Terms:
+
+Any use of this dataset must include proper citation of the following publication:
+
+*Alrasheed, S.; Aladhadh, S.; Alabdulatif, A. Protecting Intellectual Security Through Hate Speech Detection Using an Artificial Intelligence Approach. Algorithms 2025, 18, 179. https://doi.org/10.3390/a18040179.
